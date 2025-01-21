@@ -22,9 +22,9 @@ To run this project locally:
 3. **Open index.html in your preferred web browser to start using the application.**
 
 ## Usage
-Adding Meals: Input meal details including name, calorie content, and time of consumption.
-Viewing History: Access a log of all recorded meals with corresponding calorie information.
-Analyzing Data: Utilize charts and graphs to monitor calorie intake trends over days, weeks, or months.
+- Adding Meals: Input meal details including name, calorie content, and time of consumption.
+- Viewing History: Access a log of all recorded meals with corresponding calorie information.
+- Analyzing Data: Utilize charts and graphs to monitor calorie intake trends over days, weeks, or months.
 
 ##Licence
 This project is licensed under the Apache-2.0 License. See the LICENSE file for details.
