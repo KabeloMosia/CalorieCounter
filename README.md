@@ -26,5 +26,6 @@ To run this project locally:
 - Viewing History: Access a log of all recorded meals with corresponding calorie information.
 - Analyzing Data: Utilize charts and graphs to monitor calorie intake trends over days, weeks, or months.
 
+
 ##Licence
 This project is licensed under the Apache-2.0 License. See the LICENSE file for details.
